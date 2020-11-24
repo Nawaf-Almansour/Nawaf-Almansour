@@ -3,10 +3,9 @@
 
 ## I'm a Developer!!
 
-- 🔭 I just launched my first course!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love ...
 
 ### Connect with me:
 
@@ -47,3 +46,10 @@
 <!-- BLOG-POST-LIST:START -->
 
 ---
+<br />
+
+### 😄 GitHub Stats
+
+<img align="left" alt="nawaf-almansour's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nawaf-almansour&show_icons=true&count_private=true&hide_border=true" />
+
+
