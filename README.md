@@ -50,7 +50,7 @@
 
 ### 😄 GitHub Stats
 
-<img align="left" alt="nawaf-almansour's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nawaf-almansour&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
+<img align="left" alt="nawaf-almansour's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nawaf-almansour&show_icons=true&count_private=true=true&hide_border=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/nawaf-almansour
