@@ -48,6 +48,12 @@
 ---
 <br />
 
+
+### My Resume
+
+https://nawaf-almansour.github.io/-My-Perfect-Resume/
+
+
 ### 😄 GitHub Stats
 
 <img align="left" alt="nawaf-almansour's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nawaf-almansour&show_icons=true&count_private=true=true&hide_border=true" />
