@@ -4,7 +4,7 @@
 ## I'm a Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more projects
+- 🥅 2022 Goals: Contribute more projects
 - ⚡ Fun fact: I love ...
 
 ### Connect with me:
