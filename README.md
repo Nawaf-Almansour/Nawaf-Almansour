@@ -62,3 +62,18 @@ https://nawaf-almansour.github.io/-My-Perfect-Resume/
 [linkedin]: https://www.linkedin.com/in/nawaf-almansour
 
 
+---
+<br />
+
+
+### My Resume
+
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Almansour&langs_count=5&theme=tokyonight&layout=compact)]()
+
+
+---
+<br />
+
+
+
