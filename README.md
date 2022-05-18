@@ -54,10 +54,10 @@
 https://nawaf-almansour.github.io/-My-Perfect-Resume/
 
 
-### 😄 GitHub Stats
-
+<!-- ### 😄 GitHub Stats -->
+<!-- 
 <img align="left" alt="nawaf-almansour's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nawaf-almansour&show_icons=true&count_private=true=true&hide_border=true" />
-
+ -->
 
 [linkedin]: https://www.linkedin.com/in/nawaf-almansour
 
@@ -69,10 +69,10 @@ https://nawaf-almansour.github.io/-My-Perfect-Resume/
 <br />
 
 
-### My GitHub 
+### 😄 My GitHub Stats
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawaf-Almansour&langs_count=5&theme=tokyonight&layout=compact)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nawaf-almansour&show_icons=true&theme=dracula)
 
 
 ---
